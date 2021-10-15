@@ -1,2 +1,2 @@
 # pub
-https://github.com/abhaygithu
+https://github.com/abhaygithu/pub
